@@ -1,3 +1,5 @@
+*.xcodeproj/*xcuserdata*
+*.xcodeproj/project.xcworkspace/*xcuserdata*
 *.xcodeproj/project.xcworkspace/xcshareddata/
 mex/*
 mex
